@@ -65,8 +65,7 @@ endmodule
 ~~~
 
 ### RTL LOGIC:
-
-![387917515-6e9ea4ed-ebe5-44b2-bebb-a5db0b7cf62b](https://github.com/user-attachments/assets/0bb31b72-aa78-4b9f-b6d4-37b0be77ca77)
+![image](https://github.com/user-attachments/assets/b67f66f3-fb04-4f5a-8513-b34734089310)
 
 ### TIMING DIAGRAM:
 
